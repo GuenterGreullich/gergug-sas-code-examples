@@ -1,4 +1,4 @@
-/************************************************************************************************
+/**************************************************************************************************
  READ BASIC DELIMITED FILES WITH PROC IMPORT                                                                                   
      This program uses PROC IMPORT to read delimited text files - including comma, tab, and 
      pipe-delimited values.                                                                       
