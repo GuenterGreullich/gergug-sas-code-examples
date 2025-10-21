@@ -1,4 +1,4 @@
-/************************************************************************************************
+/*************************************************************************************************
  COMPUTE NEW COLUMNS WITH EXPRESSIONS AND FUNCTIONS                                           
      This program uses the DATA step to create a new table with selected rows and columns,    
          new computed columns, and formatted values.                                          
