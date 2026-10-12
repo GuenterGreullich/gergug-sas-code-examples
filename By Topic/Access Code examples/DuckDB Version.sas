@@ -8,3 +8,5 @@ connect to duckdb as x1(file_path="az://pgtestcontainer"
 );
 execute (SELECT version() AS version) by x1;
 disconnect from x1;
+
+/* Test */
