@@ -1,3 +1,4 @@
+/* GUG */
 /************************************************************************************************
  CREATE NEW COLUMN WITH THE SELECT STATEMENT
      This program illustrates how to use the SELECT statement in a DATA step to assign values to a 
