@@ -1,4 +1,4 @@
-/************************************************************************************************
+ /************************************************************************************************
  CREATE A SORTED COPY OF A TABLE                                                                                  
      This program creates a sorted copy of the WORK.CLASSTEST table.
      Keywords: PROC SORT                                                              
