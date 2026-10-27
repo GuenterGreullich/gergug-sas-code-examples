@@ -6,7 +6,7 @@
 
 /* Loading Data into the SAS Environment */
 
-/*******  Import the Spotify 20243 Songs Dataset   *******/
+/******* Import the Spotify 20243 Songs Dataset *******/
  
 libname SP '/export/pvs/sasdata/homes/gergug/gergug-sas-code-examples/gergug-sas-code-examples/GEL-Example/Spotify';
  
